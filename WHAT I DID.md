@@ -6,3 +6,7 @@
 - 🔜 _GEOINT on Sino-Myanmarese Borders_
 ### 💡 Findings
 - Method to get mutuals follower of a private instagram account, used by [Tenai](https://github.com/novitae/Tenai)
+### 🔧 Unpublished programs
+- Auto SSL-Pinning patcher for Instagram iOS
+- Free access to private premium API of [Temp-Mail.org](https://temp-mail.org/)
+- Frida script to intercept certificate of a process sending a request
